@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://hi.xd188.vip/dig/apps/fbcf.ipa</string>
+					<string>https://fubon.xd188.vip/dig/apps/fbcf.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://hi.xd188.vip/dig/apps/logo.jpg</string>
+					<string>https://fubon.xd188.vip/dig/apps/logo.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://hi.xd188.vip/dig/apps/logo.jpg</string>
+					<string>https://fubon.xd188.vip/dig/apps/logo.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>subtitle</key>
 				<string>Apple</string>
 				<key>bundle-identifier</key>
-				<string>hi.xd188.app</string>
+				<string>fubon.xd188.app</string>
 				<key>title</key>
 				<string>富邦财富</string>
 			</dict>
